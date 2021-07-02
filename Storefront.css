@@ -1,0 +1,47 @@
+/*Common Elements*/
+body {
+  font-size: 20px;
+  background-color: rgb(221, 206, 208);
+  font-family: Helvetica, sans-serif;
+  padding: 0;
+  margin: 0;
+  color: black;
+}
+h1 {
+  font-size: x-large;
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 20px 0 20px 0;
+  padding: 0 0 0 10px;
+}
+h2 {
+  font-size: small;
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 10px 0 10px 0;
+  padding: 0 0 0 10px;
+}
+p {
+  color: black;
+  font-size: 16px;
+  margin: 10px 0 10px 0;
+  padding: 0 0 0 10px;
+  line-height: 14px;
+}
+/*Footer*/
+footer {
+  height: 15px;
+  font-size: 18px;
+  width: 100%;
+  text-align: center;
+  padding: 0;
+  position: left;
+}
+footer ul#menuFooter {
+  display: inline-block;
+}
+footer ul li {
+  display: inline-block;
+  padding: 0 0.7em 0 0;
+  margin: 0;
+}
